@@ -11,3 +11,6 @@ We can get features from codepen!
 Advice - I know in the tutorials, it seems like she's doing a lot but don't worry too much about it! You learn as you go! She's way more experienced than you are, so calm down and take it in a step at a time
 
 Just like her, do a lot of googling
+
+# Resources 
+- Sass docs - https://sass-lang.com/guide/  
