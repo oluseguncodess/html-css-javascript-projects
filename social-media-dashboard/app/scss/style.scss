@@ -1,2 +1,3 @@
-@use './components/';
-@use './globals/';
+@use './components/' as comp;
+@use './globals/' as glob;
+@use './util/' as util;
