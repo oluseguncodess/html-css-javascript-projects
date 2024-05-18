@@ -1,1 +1,5 @@
 // this function converts pixels to rem
+@function rem($pixels, $content : 16) {
+    @return ($pixels / $content) * 1;
+}
+
