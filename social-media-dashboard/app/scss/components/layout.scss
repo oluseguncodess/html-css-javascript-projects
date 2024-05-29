@@ -1,0 +1,11 @@
+@use '../util/' as util;
+@use "sass:map";
+
+.container {
+    max-width: util.rem(1110rem);
+    padding: 0 util.rem(25rem);
+
+    @include util.breakpoint(large) {
+        padding: 0;
+    }
+}
