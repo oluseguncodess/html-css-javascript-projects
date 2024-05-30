@@ -2,6 +2,7 @@
 @use "sass:map";
 
 .container {
+    margin: 0 auto;
     max-width: util.rem(1110rem);
     padding: 0 util.rem(25rem);
 

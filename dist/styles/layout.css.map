@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../social-media-dashboard/app/scss/components/layout.scss","layout.css","../../social-media-dashboard/app/scss/util/breakpoints.scss"],"names":[],"mappings":"AAGA;EACI,oBAAA;EACA,oBAAA;ACFJ;ACcI;EFdJ;IAKQ,UAAA;ECDN;AACF","file":"layout.css"}
+{"version":3,"sources":["../../social-media-dashboard/app/scss/components/layout.scss","layout.css","../../social-media-dashboard/app/scss/util/breakpoints.scss"],"names":[],"mappings":"AAGA;EACI,cAAA;EACA,oBAAA;EACA,oBAAA;ACFJ;ACaI;EFdJ;IAMQ,UAAA;ECDN;AACF","file":"layout.css"}
