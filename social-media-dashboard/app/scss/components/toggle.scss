@@ -1,8 +1,12 @@
-
-
+@use '../util/' as util;
+@use '../globals/' as globs;
 .toggle {
+    border: none;
 
     &__button {
         border-radius: 50%;
+        width: util.rem(16rem);
+        height: util.rem(16rem);
+        background-color: var(--toggle);
     }
 }
