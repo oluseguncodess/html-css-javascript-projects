@@ -1,7 +1,15 @@
+@use '../util/' as util;
 h1, 
 h2,
 h3 {
     margin-top: 0;
+}
+
+h1 {
+    font-size: util.rem(24rem);
+    @include util.breakpoint(large) {
+        font-size: util.rem(28rem);
+    }
 }
 
 a, a:active, a:visited {

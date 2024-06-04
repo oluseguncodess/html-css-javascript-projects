@@ -1,0 +1,14 @@
+@use '../util/' as util;
+.header {
+    @include util.breakpoint(large) {
+        display: flex;
+        justify-content: space-between;
+    }
+    &__toggle {
+
+    }
+
+    &__title {
+         
+    }
+}

@@ -1,1 +1,1 @@
-{"version":3,"sources":["../../social-media-dashboard/app/scss/globals/typography.scss","typography.css"],"names":[],"mappings":"AAAA;;;EAGI,aAAA;ACCJ;;ADEA;EACI,qBAAA;ACCJ","file":"typography.css"}
+{"version":3,"sources":["../../social-media-dashboard/app/scss/globals/typography.scss","typography.css","../../social-media-dashboard/app/scss/util/breakpoints.scss"],"names":[],"mappings":"AACA;;;EAGI,aAAA;ACAJ;;ADGA;EACI,iBAAA;ACAJ;ACSI;EFVJ;IAGQ,kBAAA;ECEN;AACF;;ADCA;EACI,qBAAA;ACEJ","file":"typography.css"}
