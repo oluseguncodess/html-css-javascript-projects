@@ -24,7 +24,7 @@ h3 {
 h1 {
   font-size: 1.5rem;
 }
-@media (min-width: 59.375em) {
+@media (min-width: 69.375em) {
   h1 {
     font-size: 1.75rem;
   }
@@ -76,13 +76,13 @@ a, a:active, a:visited {
   max-width: 69.375rem;
   padding: 0 1.5625rem;
 }
-@media (min-width: 59.375em) {
+@media (min-width: 69.375em) {
   .container {
     padding: 0;
   }
 }
 
-@media (min-width: 59.375em) {
+@media (min-width: 69.375em) {
   .header {
     display: flex;
     justify-content: space-between;
