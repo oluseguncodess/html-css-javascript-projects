@@ -3,10 +3,12 @@ h1,
 h2,
 h3 {
     margin-top: 0;
+    line-height: 1.1;
 }
 
 h1 {
     font-size: util.rem(24rem);
+    margin-bottom: util.rem(3rem);
     @include util.breakpoint(large) {
         font-size: util.rem(28rem);
     }

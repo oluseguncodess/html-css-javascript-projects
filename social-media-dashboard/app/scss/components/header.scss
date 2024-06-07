@@ -1,6 +1,6 @@
 @use '../util/' as util;
 .header {
-    @include util.breakpoint(large) {
+    @include util.breakpoint(medium) {
         display: flex;
         justify-content: space-between;
     }
